@@ -1,0 +1,21 @@
+<OverlayData>
+
+	<MarkerCategory name="mf" displayName="Mirror Farm">
+		
+		<MarkerCategory name="m" displayName="Markers" fadeNear="3000" fadeFar="3500">
+			<MarkerCategory name="mirror" displayName="Mirrors" iconFile="Data/MirrorFarm/Markers/Mirror.png"/>
+			<MarkerCategory name="chest" displayName="Chests" iconFile="Data/MirrorFarm/Markers/Chest.png" fadeNear="3500" fadeFar="4000"/>
+		</MarkerCategory>
+		
+		<MarkerCategory name="t" displayName="Trails">
+			<MarkerCategory name="t1" displayName="Example Trail" texture="Data/MirrorFarm/Markers/Trail.png"/>
+		</MarkerCategory>
+		
+	</MarkerCategory>
+	
+	<POIs>
+		<POI MapID="" xpos="" ypos="" zpos="" type="" GUID=""/>
+		<Trail type="ep.t.t1" trailData="Data/MirrorFarm/Trails/ExampleTrail.trl"/>
+	</POIs>
+
+</OverlayData>

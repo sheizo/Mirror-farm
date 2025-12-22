@@ -1,0 +1,94 @@
+<OverlayData>
+  <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes">
+    <MarkerCategory name="Wood" iconFile="Data/Wood.png" defaulttoggle="0">
+      <MarkerCategory name="Green"/>
+      <MarkerCategory name="Soft"/>
+      <MarkerCategory name="Seasoned"/>
+      <MarkerCategory name="Hard"/>
+      <MarkerCategory name="Elder"/>
+      <MarkerCategory name="Ancient"/>
+    </MarkerCategory>
+    <MarkerCategory name="Ore" iconFile="Data/Ore.png" defaulttoggle="0">
+      <MarkerCategory name="Normal">
+        <MarkerCategory name="Copper"/>
+        <MarkerCategory name="Iron"/>
+        <MarkerCategory name="Silver"/>
+        <MarkerCategory name="Gold"/>
+        <MarkerCategory name="Platinum"/>
+        <MarkerCategory name="Mithril"/>
+        <MarkerCategory name="Orichalcum"/>
+      </MarkerCategory>
+      <MarkerCategory name="Rich">
+        <MarkerCategory name="Copper"/>
+        <MarkerCategory name="Iron"/>
+        <MarkerCategory name="Silver"/>
+        <MarkerCategory name="Gold"/>
+        <MarkerCategory name="Platinum"/>
+        <MarkerCategory name="Mithril"/>
+        <MarkerCategory name="Orichalcum"/>
+      </MarkerCategory>
+    </MarkerCategory>
+    <MarkerCategory name="Plant" iconFile="Data/Plant.png" defaulttoggle="0">
+        <MarkerCategory name="BlueberryBush" DisplayName="Blueberry Bush"/>
+        <MarkerCategory name="ButtonMushroom" DisplayName="Button Mushroom"/>
+        <MarkerCategory name="Carrots"/>
+        <MarkerCategory name="HerbPatch" DisplayName="Herb Patch"/>
+        <MarkerCategory name="HerbSeedlings" DisplayName="Herb Seedlings"/>
+        <MarkerCategory name="Lettuce"/>
+        <MarkerCategory name="Onions"/>
+        <MarkerCategory name="Potato"/>
+        <MarkerCategory name="Clam"/>
+        <MarkerCategory name="HerbSprouts" DisplayName="Herb Sprouts"/>
+        <MarkerCategory name="Spinach"/>
+        <MarkerCategory name="StrawberryPatch" DisplayName="Strawberry Patch"/>
+        <MarkerCategory name="Taproots"/>
+        <MarkerCategory name="Cabbage"/>
+        <MarkerCategory name="Grapes"/>
+        <MarkerCategory name="Kale"/>
+        <MarkerCategory name="RootVegetables" DisplayName="Root Vegetables"/>
+        <MarkerCategory name="VariedMushrooms" DisplayName="Varied Mushrooms"/>
+        <MarkerCategory name="YoungHerbs" DisplayName="Young Herbs"/>
+        <MarkerCategory name="Zucchini"/>
+        <MarkerCategory name="Blackberries"/>
+        <MarkerCategory name="Cauliflower"/>
+        <MarkerCategory name="Coral"/>
+        <MarkerCategory name="MatureHerbs" DisplayName="Mature Herbs"/>
+        <MarkerCategory name="PortobelloMushrooms" DisplayName="Portobello Mushrooms"/>
+        <MarkerCategory name="Scallions"/>
+        <MarkerCategory name="SugarPumpkin" DisplayName="Sugar Pumpkin"/>
+        <MarkerCategory name="VariegatedTaproots" DisplayName="Variegated Taproots"/>
+        <MarkerCategory name="Artichoke"/>
+        <MarkerCategory name="Asparagus"/>
+        <MarkerCategory name="BloomingPassiflora" DisplayName="Blooming Passiflora"/>
+        <MarkerCategory name="ButternutSquash" DisplayName="Butternut Squash"/>
+        <MarkerCategory name="CayennePepper" DisplayName="Cayenne Pepper"/>
+        <MarkerCategory name="ClusterOfHerbs" DisplayName="Cluster of Herbs"/>
+        <MarkerCategory name="Leeks"/>
+        <MarkerCategory name="Passiflora"/>
+        <MarkerCategory name="Raspberries"/>
+        <MarkerCategory name="VerdantHerbs" DisplayName="Verdant Herbs"/>
+        <MarkerCategory name="WinterRootVegetables" DisplayName="Winter Root Vegetables"/>
+        <MarkerCategory name="BlackCrocus" DisplayName="Black Crocus"/>
+        <MarkerCategory name="Cactus"/>
+        <MarkerCategory name="Flax"/>
+        <MarkerCategory name="GhostPepper" DisplayName="Ghost Pepper"/>
+        <MarkerCategory name="JunglePlants" DisplayName="Jungle Plants"/>
+        <MarkerCategory name="Lotus"/>
+        <MarkerCategory name="Mussels"/>
+        <MarkerCategory name="Omnomberries"/>
+        <MarkerCategory name="OrrianTruffle" DisplayName="Orrian Truffle"/>
+        <MarkerCategory name="SawgillMushrooms" DisplayName="Sawgill Mushrooms"/>
+        <MarkerCategory name="Seaweed"/>
+        <MarkerCategory name="SnowTruffle" DisplayName="Snow Truffle"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <MarkerCategory name="WvW" minSize="16" maxSize="32">
+    <MarkerCategory name="Camp" DisplayName="Camp" iconFile="Data/camp.png"/>      
+    <MarkerCategory name="Tower" DisplayName="Tower" iconFile="Data/tower.png"/>      
+    <MarkerCategory name="Keep" DisplayName="Keep" iconFile="Data/keep.png"/>      
+    <MarkerCategory name="Ruins" DisplayName="Ruins" iconFile="Data/ruins.png"/>      
+    <MarkerCategory name="Generic" DisplayName="Generic" iconFile="Data/generic.png"/>
+    <MarkerCategory name="Resource" DisplayName="Resource" iconFile="Data/resource.png"/>
+    <MarkerCategory name="Castle" DisplayName="Castle" iconFile="Data/castle.png"/>
+  </MarkerCategory>
+</OverlayData>

@@ -1,0 +1,626 @@
+*
+{
+	font:trebuchet_large;
+}
+
+GW2TacO 
+{
+	width:100%;
+	height:100%;
+	opacity:1.0f;
+	font:menomonia_large;
+}
+
+#tactical
+{
+	width:100%;
+	height:100%;
+	background:#ff0000;
+	opacity:1.0f;
+	font:menomonia_large;
+}
+
+#trail
+{
+	width:100%;
+	height:100%;
+	background:#ff0000;
+	opacity:1.0f;
+	font:menomonia_large;
+}
+
+#compass
+{
+	width:100%;
+	height:100%;
+	background:#ff0000;
+	opacity:1.0f;
+	font:menomonia_large;
+}
+
+#ranges
+{
+	width:100%;
+	height:100%;
+	background:#ff0000;
+	opacity:1.0f;
+}
+
+#locationaltimer
+{
+	width:100%;
+	height:100%;
+	opacity:1.0f;
+	font:menomonia_large;
+}
+
+#gw2dialog
+{
+	width:100%;
+	height:100%;
+	opacity:1.0f;
+	font:dialog_large;
+}
+
+#maptimer
+{
+	width:500px;
+	height:500px;
+	bottom:700px;
+	left:80px;
+}
+
+maptimer
+{
+	margin:0px;
+	background-color:rgba(0,0,0,0.5);
+}
+
+#mousehighlight
+{
+	width:100%;
+	height:100%;
+	opacity:1.0f;
+}
+
+#background
+{
+	width:100%;
+	height:100%;
+	background:#000000;
+	opacity:0.0f;
+	child-layout: vertical;
+	child-fill-y: true;
+	child-fill-x: true;
+}
+
+#MenuButton
+{
+	width:35px;
+	height:35px;
+	left:320px;
+	top:0px;
+	opacity:0.5;
+	background-color:none;
+	background: skin(taco_large_dark) top left;
+}
+
+#MenuButton:hover
+{
+	background: skin(taco_large_light) top left;
+	opacity:1.0;
+}
+
+#MenuButton:active
+{
+	background: skin(taco_large_light) top left;
+	opacity:1.0;
+}
+
+#RedCircle
+{
+	width:38px;
+	height:38px;
+	left:292px;
+	top:8px;
+	opacity:1.0;
+	background-color:none;
+	background: skin(shine) top left;
+}
+
+#TPButton
+{
+	width:36px;
+	height:35px;
+	left:286px;
+	top:0px;
+	background-color:none;
+}
+
+window
+{
+	border:0px;
+	opacity:0.75;
+	padding:3px;
+	padding-top:15px;	
+	width:150px;
+	height:150px;
+	left:5px;
+	top:5px;
+	font:UniFontOutlined;
+	text-transform:uppercase;
+}
+
+window:active
+{
+	background:#000000;
+}
+
+window:title
+{
+	top:3px;
+	left:15px;
+	right:15px;
+	height:11px;
+}
+
+window:close
+{
+	top:3px;
+	right:3px;
+	width:11px;
+	height:11px;
+	background:#2d2d30;
+}
+
+OverlayWindow
+{       	
+	border:0px;
+	opacity:0.75;
+	padding:3px;
+	padding-top:15px;	
+	background:skin(window_normal);
+	background-color:none;
+	text-transform:uppercase;
+	font-family:UniFontOutlined;
+}
+
+OverlayWindow:hover
+{
+	border:1px;
+	border-color:#707070;
+}
+
+OverlayWindow:active
+{
+	background:skin(window_active);
+}
+
+OverlayWindow:title
+{
+	top:3px;
+	left:15px;
+	right:15px;
+	height:11px;
+}
+
+OverlayWindow:close
+{
+	top:3px;
+	right:3px;
+	width:11px;
+	height:11px;
+	background:#2d2d30;
+}
+
+OverlayWindow:close:active
+{
+	background:#1c97ea;
+}
+
+OverlayWindow:close:hover
+{
+	background:#3e3e40;
+}
+
+contextmenu
+{
+	text-transform:none;
+	border:1px;
+	border-color:#808080;
+	background:#000000;
+	opacity:0.7;
+}
+
+contextmenu:hover
+{
+	background:#808080;
+}
+
+ts3control
+{
+	margin:0px;
+	background-color:rgba(0,0,0,0);
+}
+
+markereditor
+{
+	margin:0px;
+}
+
+#markereditorbox
+{
+	margin:0px;
+	child-layout: vertical;
+	child-fill-x: false;
+	child-fill-y: false;
+	child-spacing: 1px;
+	background-color:rgba(0,0,0,0.5);
+}
+
+markereditor label
+{
+	width:100%;
+	height:25px;
+	text-align:left;
+}
+
+markereditor button
+{
+	width:200px;
+	height:25px;
+        padding-bottom:5px;
+}
+
+#hpgrid
+{
+	width:312px;
+	height:16px;
+	left:50%-219px;
+	top:106px;
+}
+
+#notepadbox
+{
+	margin:0px;
+}
+
+notepad
+{
+	margin:0px;
+}
+
+notepad textbox
+{
+	background:rgba(0,0,0,0.7);
+	margin:1px;
+	padding:1px;
+	border:1px;
+}
+
+notepad textbox:selection:active
+{
+	background:rgba(64,64,64,1);
+}
+
+notepad textbox:selection:hover
+{
+	background:rgba(192,192,192,1);
+}
+
+tptracker
+{
+	margin:0px;
+}
+
+#APIkeyInput
+{
+	background:rgba(0,0,0,0.7);
+	padding:1px;
+	border:1px;
+	width:600px;
+	height:22px;
+	top:50%+20px;
+}
+
+#MenuHoverBox
+{
+	left:0px;
+	top:0px;
+	width:391px;
+	height:39px;
+	background-color:none;
+}
+
+#startnewsection
+{
+	visibility:hidden;
+}
+
+contextmenu:active
+{
+	font-color:#ffffcc77;
+}
+
+#test
+{
+	width:100%;
+	height:100%;
+}
+
+markereditor
+{
+	margin:0px;
+	background-color:rgba(0,0,0,0);
+}
+
+#markereditorbox
+{
+	margin:0px;
+	child-layout: vertical;
+	child-fill-x: true;
+	child-fill-y: true;
+	child-spacing: 1px;
+}
+
+#markereditorheader
+{
+    child-layout:horizontal;
+    child-spacing:2px;
+    padding:2px;
+    child-fill-x:true;
+    height:20px;
+    child-align-x:center;
+}
+
+#markereditormain
+{
+    margin:0px;
+    width:100%;
+	child-layout: horizontal;
+	child-fill-x: true;
+	child-fill-y: true;
+	child-spacing: 1px;
+}
+
+.markereditorpanel
+{
+	child-layout: vertical;
+	child-fill-x: true;
+}
+
+#markereditorbox *
+{
+    font:UniFontOutlined;
+}
+
+
+#markereditorbox label
+{
+	width:100%;
+	height:22px;
+	text-align:left;
+}
+
+#markereditorbox button
+{
+	width:170px;
+	height:22px;
+    padding-bottom:4px;
+    font:UniFontOutlined;
+}
+
+.markereditorsetting
+{
+    height:20px;
+	child-layout: horizontal;
+	child-fill-x: true;
+    child-align-y:center;
+	child-spacing: 3px;
+}
+
+.checkbox
+{
+    width:10px;
+    height:10px;
+}
+
+.optionlabel
+{
+	width:40%;
+    text-align:right;
+}
+
+.optiontextbox
+{
+	height:100%-4px;
+    padding:2px;
+}
+
+.optiontoggle
+{
+	height:100%-4px;
+    padding:2px;
+    width:100%;
+}
+
+.colorselect
+{
+	height:100%-4px;
+    padding:2px;
+}
+
+.colorpreview
+{
+	height:100%-4px;
+    width:20px;
+    padding:2px;
+}
+
+.panellabel
+{
+   text-align:center;
+}
+
+#categorylabel
+{
+   text-align:center;
+  height:10px;
+}
+
+#defaultmarkers button
+{
+   text-align:center;
+   width:none;
+   padding:2px;
+}
+
+#defaultmarkers
+{
+	width:30%;
+    height:16px;
+    child-layout:horizontal;
+ 	child-fill-x: true;
+    child-fill-y:true;
+    child-spacing:1px;
+}
+
+#defaultmarkertext
+{
+   width:30%;
+   height:10px;
+   top:0px;
+   right:0px;
+   text-align:center;
+}
+
+#traileditor
+{
+  child-layout:horizontal;
+  child-spacing:1px;
+  child-align-x:center;
+}
+
+#traileditor button
+{
+  width:20px;
+}
+
+#starttrail
+{
+	background: skin(play) center middle;
+}
+
+#pausetrail
+{
+	background: skin(pause) center middle;
+}
+
+#starnewsection
+{
+	background: skin(rotate) center middle;
+}
+
+#deletelastsegment
+{
+	background: skin(play) center middle;
+}
+
+#savetrail
+{
+	background: skin(play) center middle;
+}
+
+#loadtrail
+{
+	background: skin(play) center middle;
+}
+
+#markereditorheader button
+{
+  width:none;
+  height:20px;
+  width:20px;
+  padding-bottom:1px;
+}
+
+#Editcategory
+{
+  border:1px;
+}
+
+.separator
+{
+  height:10px;
+}
+
+#deletemarker
+{
+   padding:2px;
+}
+
+#starttrail
+{
+  background: skin(record) center middle;
+  font-color:#ff0000;
+}
+
+#pausetrail
+{
+  background: skin(pause) center middle;
+}
+
+#startnewsection
+{
+  background: skin(newsegment) center middle;
+}
+
+#deletelastsegment
+{
+  background: skin(delete) center middle;
+}
+
+#savetrail
+{
+  background: skin(save) center middle;
+}
+
+#loadtrail
+{
+  background: skin(open) center middle;
+}
+
+#prevsegment
+{
+  background: skin(previous) center middle;
+}
+
+#nextsegment
+{
+  background: skin(next) center middle;
+}
+
+#Editcategory
+{
+  background: skin(edit) center middle;
+}
+
+#changemarkertype
+{
+  background: skin(type) center middle;
+}
+
+#deletemarker
+{
+  background: skin(trash) center middle;
+}
+
+#markereditorheader
+{
+  height:24px;
+}
+
+#nullbutton
+{
+  opacity:0;
+}
