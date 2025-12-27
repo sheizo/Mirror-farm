@@ -1,6 +1,11 @@
 <TacOConfig>
 	<AutoHideMarkerEditor Data="1"/>
 	<CanWriteToClipboard Data="1"/>
+	<CategoryVisible_mf.m Data="1"/>
+	<CategoryVisible_mf.m.chest Data="1"/>
+	<CategoryVisible_mf.m.mirror Data="1"/>
+	<CategoryVisible_mf Data="1"/>
+	<CategoryVisible_mf.t Data="1"/>
 	<CategoryVisible_resourcenode.ore Data="0"/>
 	<CategoryVisible_resourcenode.plant Data="0"/>
 	<CategoryVisible_resourcenode.wood Data="0"/>
@@ -42,10 +47,10 @@
 	<MapTimer_y1 Data="97"/>
 	<MapTimer_y2 Data="813"/>
 	<MarkerEditor_open Data="1"/>
-	<MarkerEditor_x1 Data="100"/>
-	<MarkerEditor_x2 Data="855"/>
-	<MarkerEditor_y1 Data="399"/>
-	<MarkerEditor_y2 Data="745"/>
+	<MarkerEditor_x1 Data="54"/>
+	<MarkerEditor_x2 Data="809"/>
+	<MarkerEditor_y1 Data="575"/>
+	<MarkerEditor_y2 Data="921"/>
 	<MarkerPack_DRFT_GP_autoupdate Data="0"/>
 	<MarkerPack_DRFT_autoupdate Data="0"/>
 	<MarkerPack_Heros_autoupdate Data="0"/>
@@ -70,8 +75,8 @@
 	<NoCategoryHiding Data="0"/>
 	<OpacityIngame Data="0"/>
 	<OpacityMap Data="0"/>
-	<RangeCircle1200 Data="1"/>
 	<RangeCircle120 Data="1"/>
+	<RangeCircle1200 Data="1"/>
 	<RangeCircle1500 Data="0"/>
 	<RangeCircle1600 Data="0"/>
 	<RangeCircle180 Data="0"/>
@@ -79,8 +84,8 @@
 	<RangeCircle300 Data="1"/>
 	<RangeCircle400 Data="1"/>
 	<RangeCircle600 Data="1"/>
-	<RangeCircle900 Data="1"/>
 	<RangeCircle90 Data="0"/>
+	<RangeCircle900 Data="1"/>
 	<RangeCircleTransparency Data="100"/>
 	<RangeCirclesVisible Data="0"/>
 	<SendCrashDump Data="1"/>

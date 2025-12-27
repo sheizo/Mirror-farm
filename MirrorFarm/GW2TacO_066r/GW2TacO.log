@@ -59,3 +59,540 @@
 [2025-12-21 16:57:44] (Info) [GW2TacO] gw2 window size change: 0 0 1920 1080 (1920 1080)
 [2025-12-21 16:57:48] (Err)  [GW2TacO] Failed to open zip archive Data/Wood.png
 [2025-12-21 17:26:36] (Info) [core] 2 unfreed graphical resources found on exit. This is fine.
+
+----------------------------------------------
+[2025-12-22 13:43:15] (Info) [GW2TacO] build ID: GW2 TacO 066.3702r
+[2025-12-22 13:43:15] (Info) [GW2TacO] CommandLine: "D:\Downloads\gw2 test pack\MirrorFarm\MirrorFarm\GW2TacO_066r\GW2TacO.exe" 
+[2025-12-22 13:43:15] (Err)  [GW2TacO] Failed to register gw2taco:// protocol with windows.
+[2025-12-22 13:43:15] (Info) [core] Creating DirectComposition swap chain
+[2025-12-22 13:43:15] (Info) [core] DirectX11 Device initialization successful.
+[2025-12-22 13:43:16] (Info) [gui] Successfully loaded Skin 'UI.wbs'
+[2025-12-22 13:43:16] (Err)  [xml2gui] Unknown tag: 'GW2Dialog'
+[2025-12-22 13:43:16] (Info) [core] Successfully loaded D3DCompile from d3dcompiler_47.dll
+[2025-12-22 13:43:16] (Info) [GW2TacO] Fetching URL: raw.githubusercontent.com/BoyC/GW2TacO/main/MarkerPacks.json
+[2025-12-22 13:43:16] (Info) [GW2TacO] Fetching URL: www.tekkitsworkshop.net/index.php/download
+[2025-12-22 13:43:17] (Err)  [GW2TacO] Failed to open trail data file Data/TW/EoD/DragonsEnd/tw_eod_dragonsend_jadelanterns_toggletrail.trl
+[2025-12-22 13:43:17] (Err)  [GW2TacO] Failed to open trail data file Data/TW/VoE/ShipwreckStrand\tw_voe_shipwreckstrand_underwaterexploration_toggletrail.trl
+[2025-12-22 13:43:17] (Info) [GW2TacO] Fetching URL: www.heinze.fr/taco/?lang=en
+[2025-12-22 13:43:17] (Err)  [GW2TacO] Package ReactifEn version string not found
+[2025-12-22 13:43:18] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/wvw/objectives?ids=all
+[2025-12-22 13:43:18] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=1099
+[2025-12-22 13:43:18] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=96
+[2025-12-22 13:43:18] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=95
+[2025-12-22 13:43:19] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=968
+[2025-12-22 13:43:19] (Dbg)  [GW2TacO] Taco integrity: 2000, GW2 integrity: 2000
+[2025-12-22 13:43:19] (Info) [GW2TacO] gw2 window size change: 0 0 1920 1080 (1920 1080)
+[2025-12-22 13:43:19] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=38
+[2025-12-22 13:43:24] (Err)  [GW2TacO] Failed to open zip archive Data/Wood.png
+[2025-12-22 16:38:09] (Info) [core] 4 unfreed graphical resources found on exit. This is fine.
+
+----------------------------------------------
+[2025-12-22 16:38:15] (Info) [GW2TacO] build ID: GW2 TacO 066.3702r
+[2025-12-22 16:38:15] (Info) [GW2TacO] CommandLine: "D:\Downloads\gw2 test pack\MirrorFarm\MirrorFarm\GW2TacO_066r\GW2TacO.exe" 
+[2025-12-22 16:38:15] (Err)  [GW2TacO] Failed to register gw2taco:// protocol with windows.
+[2025-12-22 16:38:15] (Info) [core] Creating DirectComposition swap chain
+[2025-12-22 16:38:16] (Info) [core] DirectX11 Device initialization successful.
+[2025-12-22 16:38:16] (Info) [gui] Successfully loaded Skin 'UI.wbs'
+[2025-12-22 16:38:16] (Err)  [xml2gui] Unknown tag: 'GW2Dialog'
+[2025-12-22 16:38:16] (Info) [core] Successfully loaded D3DCompile from d3dcompiler_47.dll
+[2025-12-22 16:38:16] (Info) [GW2TacO] Fetching URL: raw.githubusercontent.com/BoyC/GW2TacO/main/MarkerPacks.json
+[2025-12-22 16:38:16] (Info) [GW2TacO] Fetching URL: www.tekkitsworkshop.net/index.php/download
+[2025-12-22 16:38:17] (Err)  [GW2TacO] Failed to open trail data file Data/TW/EoD/DragonsEnd/tw_eod_dragonsend_jadelanterns_toggletrail.trl
+[2025-12-22 16:38:17] (Err)  [GW2TacO] Failed to open trail data file Data/TW/VoE/ShipwreckStrand\tw_voe_shipwreckstrand_underwaterexploration_toggletrail.trl
+[2025-12-22 16:38:18] (Info) [GW2TacO] Fetching URL: www.heinze.fr/taco/?lang=en
+[2025-12-22 16:38:18] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/wvw/objectives?ids=all
+[2025-12-22 16:38:18] (Err)  [GW2TacO] Package ReactifEn version string not found
+[2025-12-22 16:38:18] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=1099
+[2025-12-22 16:38:18] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=96
+[2025-12-22 16:38:18] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=95
+[2025-12-22 16:38:18] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=968
+[2025-12-22 16:38:18] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=38
+[2025-12-22 16:38:19] (Dbg)  [GW2TacO] Taco integrity: 2000, GW2 integrity: 2000
+[2025-12-22 16:38:19] (Info) [GW2TacO] gw2 window size change: 0 0 1920 1080 (1920 1080)
+[2025-12-22 16:38:19] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 16:38:19] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 16:38:19] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:38:19] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:38:19] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 16:38:19] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:38:19] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:38:33] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:38:47] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 16:39:25] (Err)  [GW2TacO] Failed to open zip archive Data/Wood.png
+[2025-12-22 16:39:25] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 16:40:03] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 16:40:10] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 16:40:18] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 16:40:18] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:40:18] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:40:18] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:40:18] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:40:18] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:40:18] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:40:18] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:40:18] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:40:18] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:40:18] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:40:18] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:40:18] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 16:40:18] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 16:40:18] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:40:18] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 16:44:20] (Info) [core] 2 unfreed graphical resources found on exit. This is fine.
+
+----------------------------------------------
+[2025-12-22 16:44:53] (Info) [GW2TacO] build ID: GW2 TacO 066.3702r
+[2025-12-22 16:44:53] (Info) [GW2TacO] CommandLine: "D:\Downloads\gw2 test pack\MirrorFarm\MirrorFarm\GW2TacO_066r\GW2TacO.exe" 
+[2025-12-22 16:44:53] (Err)  [GW2TacO] Failed to register gw2taco:// protocol with windows.
+[2025-12-22 16:44:53] (Info) [core] Creating DirectComposition swap chain
+[2025-12-22 16:44:53] (Info) [core] DirectX11 Device initialization successful.
+[2025-12-22 16:44:54] (Info) [gui] Successfully loaded Skin 'UI.wbs'
+[2025-12-22 16:44:54] (Err)  [xml2gui] Unknown tag: 'GW2Dialog'
+[2025-12-22 16:44:54] (Info) [core] Successfully loaded D3DCompile from d3dcompiler_47.dll
+[2025-12-22 16:44:54] (Info) [GW2TacO] Fetching URL: raw.githubusercontent.com/BoyC/GW2TacO/main/MarkerPacks.json
+[2025-12-22 16:44:54] (Info) [GW2TacO] Fetching URL: www.tekkitsworkshop.net/index.php/download
+[2025-12-22 16:44:54] (Err)  [GW2TacO] Failed to open trail data file Data/TW/EoD/DragonsEnd/tw_eod_dragonsend_jadelanterns_toggletrail.trl
+[2025-12-22 16:44:54] (Err)  [GW2TacO] Failed to open trail data file Data/TW/VoE/ShipwreckStrand\tw_voe_shipwreckstrand_underwaterexploration_toggletrail.trl
+[2025-12-22 16:44:55] (Info) [GW2TacO] Fetching URL: www.heinze.fr/taco/?lang=en
+[2025-12-22 16:44:55] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/wvw/objectives?ids=all
+[2025-12-22 16:44:55] (Err)  [GW2TacO] Package ReactifEn version string not found
+[2025-12-22 16:44:56] (Dbg)  [GW2TacO] Taco integrity: 2000, GW2 integrity: 2000
+[2025-12-22 16:44:56] (Info) [GW2TacO] gw2 window size change: 0 0 1920 1080 (1920 1080)
+[2025-12-22 16:44:57] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=1099
+[2025-12-22 16:44:57] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=96
+[2025-12-22 16:44:57] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=95
+[2025-12-22 16:44:57] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=968
+[2025-12-22 16:44:57] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=38
+[2025-12-22 16:50:53] (Info) [core] 4 unfreed graphical resources found on exit. This is fine.
+
+----------------------------------------------
+[2025-12-22 16:51:12] (Info) [GW2TacO] build ID: GW2 TacO 066.3702r
+[2025-12-22 16:51:12] (Info) [GW2TacO] CommandLine: "D:\Downloads\gw2 test pack\MirrorFarm\MirrorFarm\GW2TacO_066r\GW2TacO.exe" 
+[2025-12-22 16:51:12] (Err)  [GW2TacO] Failed to register gw2taco:// protocol with windows.
+[2025-12-22 16:51:12] (Info) [core] Creating DirectComposition swap chain
+[2025-12-22 16:51:12] (Info) [core] DirectX11 Device initialization successful.
+[2025-12-22 16:51:12] (Info) [gui] Successfully loaded Skin 'UI.wbs'
+[2025-12-22 16:51:12] (Err)  [xml2gui] Unknown tag: 'GW2Dialog'
+[2025-12-22 16:51:12] (Info) [core] Successfully loaded D3DCompile from d3dcompiler_47.dll
+[2025-12-22 16:51:12] (Info) [GW2TacO] Fetching URL: raw.githubusercontent.com/BoyC/GW2TacO/main/MarkerPacks.json
+[2025-12-22 16:51:13] (Info) [GW2TacO] Fetching URL: www.tekkitsworkshop.net/index.php/download
+[2025-12-22 16:51:13] (Err)  [GW2TacO] Failed to open trail data file Data/TW/EoD/DragonsEnd/tw_eod_dragonsend_jadelanterns_toggletrail.trl
+[2025-12-22 16:51:13] (Err)  [GW2TacO] Failed to open trail data file Data/TW/VoE/ShipwreckStrand\tw_voe_shipwreckstrand_underwaterexploration_toggletrail.trl
+[2025-12-22 16:51:13] (Info) [GW2TacO] Fetching URL: www.heinze.fr/taco/?lang=en
+[2025-12-22 16:51:14] (Err)  [GW2TacO] Package ReactifEn version string not found
+[2025-12-22 16:51:14] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/wvw/objectives?ids=all
+[2025-12-22 16:51:14] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=1099
+[2025-12-22 16:51:14] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=96
+[2025-12-22 16:51:14] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=95
+[2025-12-22 16:51:15] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=968
+[2025-12-22 16:51:15] (Dbg)  [GW2TacO] Taco integrity: 2000, GW2 integrity: 2000
+[2025-12-22 16:51:15] (Info) [GW2TacO] gw2 window size change: 0 0 1920 1080 (1920 1080)
+[2025-12-22 16:51:15] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=38
+[2025-12-22 16:52:22] (Err)  [GW2TacO] Failed to open trail data file Data/TW/EoD/DragonsEnd/tw_eod_dragonsend_jadelanterns_toggletrail.trl
+[2025-12-22 16:52:22] (Err)  [GW2TacO] Failed to open trail data file Data/TW/VoE/ShipwreckStrand\tw_voe_shipwreckstrand_underwaterexploration_toggletrail.trl
+[2025-12-22 16:52:25] (Err)  [GW2TacO] Failed to open trail data file Data/TW/EoD/DragonsEnd/tw_eod_dragonsend_jadelanterns_toggletrail.trl
+[2025-12-22 16:52:25] (Err)  [GW2TacO] Failed to open trail data file Data/TW/VoE/ShipwreckStrand\tw_voe_shipwreckstrand_underwaterexploration_toggletrail.trl
+[2025-12-22 16:53:21] (Info) [core] 4738 unfreed graphical resources found on exit. This is fine.
+
+----------------------------------------------
+[2025-12-22 16:54:23] (Info) [GW2TacO] build ID: GW2 TacO 066.3702r
+[2025-12-22 16:54:23] (Info) [GW2TacO] CommandLine: "D:\Downloads\gw2 test pack\MirrorFarm\MirrorFarm\GW2TacO_066r\GW2TacO.exe" 
+[2025-12-22 16:54:23] (Err)  [GW2TacO] Failed to register gw2taco:// protocol with windows.
+[2025-12-22 16:54:23] (Info) [core] Creating DirectComposition swap chain
+[2025-12-22 16:54:23] (Info) [core] DirectX11 Device initialization successful.
+[2025-12-22 16:54:24] (Info) [gui] Successfully loaded Skin 'UI.wbs'
+[2025-12-22 16:54:24] (Err)  [xml2gui] Unknown tag: 'GW2Dialog'
+[2025-12-22 16:54:24] (Info) [core] Successfully loaded D3DCompile from d3dcompiler_47.dll
+[2025-12-22 16:54:24] (Info) [GW2TacO] Fetching URL: raw.githubusercontent.com/BoyC/GW2TacO/main/MarkerPacks.json
+[2025-12-22 16:54:24] (Info) [GW2TacO] Fetching URL: www.tekkitsworkshop.net/index.php/download
+[2025-12-22 16:54:24] (Err)  [GW2TacO] Failed to open trail data file Data/TW/EoD/DragonsEnd/tw_eod_dragonsend_jadelanterns_toggletrail.trl
+[2025-12-22 16:54:24] (Err)  [GW2TacO] Failed to open trail data file Data/TW/VoE/ShipwreckStrand\tw_voe_shipwreckstrand_underwaterexploration_toggletrail.trl
+[2025-12-22 16:54:25] (Info) [GW2TacO] Fetching URL: www.heinze.fr/taco/?lang=en
+[2025-12-22 16:54:25] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/wvw/objectives?ids=all
+[2025-12-22 16:54:25] (Err)  [GW2TacO] Package ReactifEn version string not found
+[2025-12-22 16:54:25] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=1099
+[2025-12-22 16:54:26] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=96
+[2025-12-22 16:54:26] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=95
+[2025-12-22 16:54:26] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=968
+[2025-12-22 16:54:26] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=38
+[2025-12-22 16:54:26] (Dbg)  [GW2TacO] Taco integrity: 2000, GW2 integrity: 2000
+[2025-12-22 16:54:26] (Info) [GW2TacO] gw2 window size change: 0 0 1920 1080 (1920 1080)
+[2025-12-22 16:54:26] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 16:54:44] (Err)  [GW2TacO] Failed to open zip archive Data/Wood.png
+[2025-12-22 16:54:44] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 16:54:46] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 16:54:47] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 16:55:10] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 16:55:15] (Info) [core] 4 unfreed graphical resources found on exit. This is fine.
+
+----------------------------------------------
+[2025-12-22 16:55:20] (Info) [GW2TacO] build ID: GW2 TacO 066.3702r
+[2025-12-22 16:55:20] (Info) [GW2TacO] CommandLine: "D:\Downloads\gw2 test pack\MirrorFarm\MirrorFarm\GW2TacO_066r\GW2TacO.exe" 
+[2025-12-22 16:55:20] (Err)  [GW2TacO] Failed to register gw2taco:// protocol with windows.
+[2025-12-22 16:55:20] (Info) [core] Creating DirectComposition swap chain
+[2025-12-22 16:55:20] (Info) [core] DirectX11 Device initialization successful.
+[2025-12-22 16:55:21] (Info) [gui] Successfully loaded Skin 'UI.wbs'
+[2025-12-22 16:55:21] (Err)  [xml2gui] Unknown tag: 'GW2Dialog'
+[2025-12-22 16:55:21] (Info) [core] Successfully loaded D3DCompile from d3dcompiler_47.dll
+[2025-12-22 16:55:21] (Info) [GW2TacO] Fetching URL: raw.githubusercontent.com/BoyC/GW2TacO/main/MarkerPacks.json
+[2025-12-22 16:55:21] (Info) [GW2TacO] Fetching URL: www.tekkitsworkshop.net/index.php/download
+[2025-12-22 16:55:21] (Err)  [GW2TacO] Failed to open trail data file Data/TW/EoD/DragonsEnd/tw_eod_dragonsend_jadelanterns_toggletrail.trl
+[2025-12-22 16:55:21] (Err)  [GW2TacO] Failed to open trail data file Data/TW/VoE/ShipwreckStrand\tw_voe_shipwreckstrand_underwaterexploration_toggletrail.trl
+[2025-12-22 16:55:22] (Info) [GW2TacO] Fetching URL: www.heinze.fr/taco/?lang=en
+[2025-12-22 16:55:22] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/wvw/objectives?ids=all
+[2025-12-22 16:55:22] (Err)  [GW2TacO] Package ReactifEn version string not found
+[2025-12-22 16:55:22] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=1099
+[2025-12-22 16:55:23] (Dbg)  [GW2TacO] Taco integrity: 2000, GW2 integrity: 2000
+[2025-12-22 16:55:23] (Info) [GW2TacO] gw2 window size change: 0 0 1920 1080 (1920 1080)
+[2025-12-22 16:55:23] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 16:55:24] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=96
+[2025-12-22 16:55:24] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=95
+[2025-12-22 16:55:24] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=968
+[2025-12-22 16:55:25] (Err)  [GW2TacO] Failed to open zip archive Data/Wood.png
+[2025-12-22 16:55:25] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 16:55:28] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=38
+[2025-12-22 16:55:41] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:55:41] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 16:55:43] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:55:43] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 16:55:43] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:55:43] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 16:55:43] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:55:43] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:55:43] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 16:55:46] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:55:46] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:55:46] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 16:55:46] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:55:47] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:55:48] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:55:48] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:55:48] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:55:48] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:55:48] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:55:48] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:55:48] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:55:48] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 16:55:48] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 16:55:48] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 16:55:48] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 16:56:44] (Info) [core] 4 unfreed graphical resources found on exit. This is fine.
+
+----------------------------------------------
+[2025-12-22 16:56:50] (Info) [GW2TacO] build ID: GW2 TacO 066.3702r
+[2025-12-22 16:56:50] (Info) [GW2TacO] CommandLine: "D:\Downloads\gw2 test pack\MirrorFarm\MirrorFarm\GW2TacO_066r\GW2TacO.exe" 
+[2025-12-22 16:56:50] (Err)  [GW2TacO] Failed to register gw2taco:// protocol with windows.
+[2025-12-22 16:56:50] (Info) [core] Creating DirectComposition swap chain
+[2025-12-22 16:56:50] (Info) [core] DirectX11 Device initialization successful.
+[2025-12-22 16:56:51] (Info) [gui] Successfully loaded Skin 'UI.wbs'
+[2025-12-22 16:56:51] (Err)  [xml2gui] Unknown tag: 'GW2Dialog'
+[2025-12-22 16:56:51] (Info) [core] Successfully loaded D3DCompile from d3dcompiler_47.dll
+[2025-12-22 16:56:51] (Info) [GW2TacO] Fetching URL: raw.githubusercontent.com/BoyC/GW2TacO/main/MarkerPacks.json
+[2025-12-22 16:56:51] (Info) [GW2TacO] Fetching URL: www.tekkitsworkshop.net/index.php/download
+[2025-12-22 16:56:51] (Err)  [GW2TacO] Failed to open trail data file Data/TW/EoD/DragonsEnd/tw_eod_dragonsend_jadelanterns_toggletrail.trl
+[2025-12-22 16:56:52] (Err)  [GW2TacO] Failed to open trail data file Data/TW/VoE/ShipwreckStrand\tw_voe_shipwreckstrand_underwaterexploration_toggletrail.trl
+[2025-12-22 16:56:52] (Info) [GW2TacO] Fetching URL: www.heinze.fr/taco/?lang=en
+[2025-12-22 16:56:52] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/wvw/objectives?ids=all
+[2025-12-22 16:56:52] (Err)  [GW2TacO] Package ReactifEn version string not found
+[2025-12-22 16:56:53] (Dbg)  [GW2TacO] Taco integrity: 2000, GW2 integrity: 2000
+[2025-12-22 16:56:53] (Info) [GW2TacO] gw2 window size change: 0 0 1920 1080 (1920 1080)
+[2025-12-22 16:56:59] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=1099
+[2025-12-22 16:56:59] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=96
+[2025-12-22 16:56:59] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=95
+[2025-12-22 16:56:59] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=968
+[2025-12-22 16:56:59] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=38
+[2025-12-22 16:57:04] (Err)  [GW2TacO] Failed to open zip archive Data/Wood.png
+[2025-12-22 16:58:43] (Info) [GW2TacO] gw2 window size change: 20314636 1985940784 -1333995313 -2 (-1354309949 -1985940786)
+[2025-12-22 16:58:43] (Warn) [core] Trying to resize swapchain to invalid resolution: 0 0
+[2025-12-22 16:58:47] (Info) [core] 2 unfreed graphical resources found on exit. This is fine.
+
+----------------------------------------------
+[2025-12-22 17:00:30] (Info) [GW2TacO] build ID: GW2 TacO 066.3702r
+[2025-12-22 17:00:30] (Info) [GW2TacO] CommandLine: "D:\Downloads\gw2 test pack\MirrorFarm\MirrorFarm\GW2TacO_066r\GW2TacO.exe" 
+[2025-12-22 17:00:30] (Err)  [GW2TacO] Failed to register gw2taco:// protocol with windows.
+[2025-12-22 17:00:30] (Info) [core] Creating DirectComposition swap chain
+[2025-12-22 17:00:30] (Info) [core] DirectX11 Device initialization successful.
+[2025-12-22 17:00:31] (Info) [gui] Successfully loaded Skin 'UI.wbs'
+[2025-12-22 17:00:31] (Err)  [xml2gui] Unknown tag: 'GW2Dialog'
+[2025-12-22 17:00:31] (Info) [core] Successfully loaded D3DCompile from d3dcompiler_47.dll
+[2025-12-22 17:00:31] (Info) [GW2TacO] Fetching URL: raw.githubusercontent.com/BoyC/GW2TacO/main/MarkerPacks.json
+[2025-12-22 17:00:31] (Info) [GW2TacO] Fetching URL: www.tekkitsworkshop.net/index.php/download
+[2025-12-22 17:00:31] (Err)  [GW2TacO] Failed to open trail data file Data/TW/EoD/DragonsEnd/tw_eod_dragonsend_jadelanterns_toggletrail.trl
+[2025-12-22 17:00:31] (Err)  [GW2TacO] Failed to open trail data file Data/TW/VoE/ShipwreckStrand\tw_voe_shipwreckstrand_underwaterexploration_toggletrail.trl
+[2025-12-22 17:00:32] (Info) [GW2TacO] Fetching URL: www.heinze.fr/taco/?lang=en
+[2025-12-22 17:00:32] (Err)  [GW2TacO] Package ReactifEn version string not found
+[2025-12-22 17:00:32] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/wvw/objectives?ids=all
+[2025-12-22 17:00:33] (Dbg)  [GW2TacO] Taco integrity: 2000, GW2 integrity: 2000
+[2025-12-22 17:00:33] (Info) [GW2TacO] gw2 window size change: 0 0 1920 1080 (1920 1080)
+[2025-12-22 17:00:33] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=1099
+[2025-12-22 17:00:33] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=96
+[2025-12-22 17:00:34] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=95
+[2025-12-22 17:00:34] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=968
+[2025-12-22 17:00:34] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=38
+[2025-12-22 17:00:38] (Err)  [GW2TacO] Failed to open zip archive Data/Wood.png
+[2025-12-22 17:01:33] (Info) [core] 2 unfreed graphical resources found on exit. This is fine.
+
+----------------------------------------------
+[2025-12-22 17:01:41] (Info) [GW2TacO] build ID: GW2 TacO 066.3702r
+[2025-12-22 17:01:41] (Info) [GW2TacO] CommandLine: "D:\Downloads\gw2 test pack\MirrorFarm\MirrorFarm\GW2TacO_066r\GW2TacO.exe" 
+[2025-12-22 17:01:41] (Err)  [GW2TacO] Failed to register gw2taco:// protocol with windows.
+[2025-12-22 17:01:41] (Info) [core] Creating DirectComposition swap chain
+[2025-12-22 17:01:41] (Info) [core] DirectX11 Device initialization successful.
+[2025-12-22 17:01:41] (Info) [gui] Successfully loaded Skin 'UI.wbs'
+[2025-12-22 17:01:41] (Err)  [xml2gui] Unknown tag: 'GW2Dialog'
+[2025-12-22 17:01:41] (Info) [core] Successfully loaded D3DCompile from d3dcompiler_47.dll
+[2025-12-22 17:01:42] (Info) [GW2TacO] Fetching URL: raw.githubusercontent.com/BoyC/GW2TacO/main/MarkerPacks.json
+[2025-12-22 17:01:42] (Info) [GW2TacO] Fetching URL: www.tekkitsworkshop.net/index.php/download
+[2025-12-22 17:01:42] (Err)  [GW2TacO] Failed to open trail data file Data/TW/EoD/DragonsEnd/tw_eod_dragonsend_jadelanterns_toggletrail.trl
+[2025-12-22 17:01:42] (Err)  [GW2TacO] Failed to open trail data file Data/TW/VoE/ShipwreckStrand\tw_voe_shipwreckstrand_underwaterexploration_toggletrail.trl
+[2025-12-22 17:01:42] (Info) [GW2TacO] Fetching URL: www.heinze.fr/taco/?lang=en
+[2025-12-22 17:01:43] (Err)  [GW2TacO] Package ReactifEn version string not found
+[2025-12-22 17:01:43] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/wvw/objectives?ids=all
+[2025-12-22 17:01:43] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=1099
+[2025-12-22 17:01:43] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=96
+[2025-12-22 17:01:44] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=95
+[2025-12-22 17:01:44] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=968
+[2025-12-22 17:01:44] (Dbg)  [GW2TacO] Taco integrity: 2000, GW2 integrity: 2000
+[2025-12-22 17:01:44] (Info) [GW2TacO] gw2 window size change: 0 0 1920 1080 (1920 1080)
+[2025-12-22 17:01:44] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=38
+[2025-12-22 17:01:48] (Err)  [GW2TacO] Failed to open zip archive Data/Wood.png
+[2025-12-22 17:02:23] (Info) [core] 2 unfreed graphical resources found on exit. This is fine.
+
+----------------------------------------------
+[2025-12-22 17:03:59] (Info) [GW2TacO] build ID: GW2 TacO 066.3702r
+[2025-12-22 17:03:59] (Info) [GW2TacO] CommandLine: "D:\Downloads\gw2 test pack\MirrorFarm\MirrorFarm\GW2TacO_066r\GW2TacO.exe" 
+[2025-12-22 17:03:59] (Err)  [GW2TacO] Failed to register gw2taco:// protocol with windows.
+[2025-12-22 17:03:59] (Info) [core] Creating DirectComposition swap chain
+[2025-12-22 17:03:59] (Info) [core] DirectX11 Device initialization successful.
+[2025-12-22 17:04:00] (Info) [gui] Successfully loaded Skin 'UI.wbs'
+[2025-12-22 17:04:00] (Err)  [xml2gui] Unknown tag: 'GW2Dialog'
+[2025-12-22 17:04:00] (Info) [core] Successfully loaded D3DCompile from d3dcompiler_47.dll
+[2025-12-22 17:04:00] (Info) [GW2TacO] Fetching URL: raw.githubusercontent.com/BoyC/GW2TacO/main/MarkerPacks.json
+[2025-12-22 17:04:00] (Info) [GW2TacO] Fetching URL: www.tekkitsworkshop.net/index.php/download
+[2025-12-22 17:04:00] (Err)  [GW2TacO] Failed to open trail data file Data/TW/EoD/DragonsEnd/tw_eod_dragonsend_jadelanterns_toggletrail.trl
+[2025-12-22 17:04:01] (Err)  [GW2TacO] Failed to open trail data file Data/TW/VoE/ShipwreckStrand\tw_voe_shipwreckstrand_underwaterexploration_toggletrail.trl
+[2025-12-22 17:04:01] (Info) [GW2TacO] Fetching URL: www.heinze.fr/taco/?lang=en
+[2025-12-22 17:04:01] (Err)  [GW2TacO] Package ReactifEn version string not found
+[2025-12-22 17:04:01] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/wvw/objectives?ids=all
+[2025-12-22 17:04:01] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=1099
+[2025-12-22 17:04:02] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=96
+[2025-12-22 17:04:02] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=95
+[2025-12-22 17:04:02] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=968
+[2025-12-22 17:04:02] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=38
+[2025-12-22 17:04:02] (Dbg)  [GW2TacO] Taco integrity: 2000, GW2 integrity: 2000
+[2025-12-22 17:04:02] (Info) [GW2TacO] gw2 window size change: 0 0 1920 1080 (1920 1080)
+[2025-12-22 17:28:19] (Err)  [GW2TacO] Failed to open zip archive Data/Wood.png
+[2025-12-22 18:42:35] (Info) [core] 4 unfreed graphical resources found on exit. This is fine.
+
+----------------------------------------------
+[2025-12-22 18:42:50] (Info) [GW2TacO] build ID: GW2 TacO 066.3702r
+[2025-12-22 18:42:50] (Info) [GW2TacO] CommandLine: "D:\Downloads\gw2 test pack\MirrorFarm\MirrorFarm\GW2TacO_066r\GW2TacO.exe" 
+[2025-12-22 18:42:50] (Err)  [GW2TacO] Failed to register gw2taco:// protocol with windows.
+[2025-12-22 18:42:50] (Info) [core] Creating DirectComposition swap chain
+[2025-12-22 18:42:50] (Info) [core] DirectX11 Device initialization successful.
+[2025-12-22 18:42:50] (Info) [gui] Successfully loaded Skin 'UI.wbs'
+[2025-12-22 18:42:50] (Err)  [xml2gui] Unknown tag: 'GW2Dialog'
+[2025-12-22 18:42:50] (Info) [core] Successfully loaded D3DCompile from d3dcompiler_47.dll
+[2025-12-22 18:42:50] (Info) [GW2TacO] Fetching URL: raw.githubusercontent.com/BoyC/GW2TacO/main/MarkerPacks.json
+[2025-12-22 18:42:51] (Err)  [GW2TacO] Failed to open trail data file .\MirrorSmallRouteShipwreckMap.trl
+[2025-12-22 18:42:51] (Err)  [GW2TacO] Failed to open trail data file .\MirrorSmallRouteStarlitMap.trl
+[2025-12-22 18:42:51] (Info) [GW2TacO] Fetching URL: www.tekkitsworkshop.net/index.php/download
+[2025-12-22 18:42:51] (Err)  [GW2TacO] Failed to open trail data file Data/TW/EoD/DragonsEnd/tw_eod_dragonsend_jadelanterns_toggletrail.trl
+[2025-12-22 18:42:51] (Err)  [GW2TacO] Failed to open trail data file Data/TW/VoE/ShipwreckStrand\tw_voe_shipwreckstrand_underwaterexploration_toggletrail.trl
+[2025-12-22 18:42:52] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/wvw/objectives?ids=all
+[2025-12-22 18:42:52] (Info) [GW2TacO] Fetching URL: www.heinze.fr/taco/?lang=en
+[2025-12-22 18:42:52] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=1099
+[2025-12-22 18:42:52] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=96
+[2025-12-22 18:42:52] (Err)  [GW2TacO] Package ReactifEn version string not found
+[2025-12-22 18:42:53] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=95
+[2025-12-22 18:42:53] (Dbg)  [GW2TacO] Taco integrity: 2000, GW2 integrity: 2000
+[2025-12-22 18:42:53] (Info) [GW2TacO] gw2 window size change: 0 0 1920 1080 (1920 1080)
+[2025-12-22 18:42:53] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 18:42:53] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=968
+[2025-12-22 18:42:53] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=38
+[2025-12-22 18:43:25] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 18:43:25] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 18:43:25] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 18:43:25] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 18:43:25] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 18:43:26] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 18:43:26] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 18:43:26] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 18:43:26] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 18:43:26] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 18:43:26] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 18:43:26] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 18:43:26] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 18:43:26] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 18:43:26] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 18:43:26] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 18:43:26] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 18:43:26] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 18:43:26] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 18:43:26] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 18:43:26] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 18:43:26] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 18:43:26] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 18:43:26] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 18:43:26] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 18:43:26] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 18:45:39] (Info) [core] 2 unfreed graphical resources found on exit. This is fine.
+
+----------------------------------------------
+[2025-12-22 18:46:08] (Info) [GW2TacO] build ID: GW2 TacO 066.3702r
+[2025-12-22 18:46:08] (Info) [GW2TacO] CommandLine: "D:\Downloads\gw2 test pack\MirrorFarm\MirrorFarm\GW2TacO_066r\GW2TacO.exe" 
+[2025-12-22 18:46:08] (Err)  [GW2TacO] Failed to register gw2taco:// protocol with windows.
+[2025-12-22 18:46:08] (Info) [core] Creating DirectComposition swap chain
+[2025-12-22 18:46:08] (Info) [core] DirectX11 Device initialization successful.
+[2025-12-22 18:46:09] (Info) [gui] Successfully loaded Skin 'UI.wbs'
+[2025-12-22 18:46:09] (Err)  [xml2gui] Unknown tag: 'GW2Dialog'
+[2025-12-22 18:46:09] (Info) [core] Successfully loaded D3DCompile from d3dcompiler_47.dll
+[2025-12-22 18:46:09] (Info) [GW2TacO] Fetching URL: raw.githubusercontent.com/BoyC/GW2TacO/main/MarkerPacks.json
+[2025-12-22 18:46:09] (Err)  [GW2TacO] Failed to open trail data file .\MirrorSmallRouteShipwreckMap.trl
+[2025-12-22 18:46:09] (Err)  [GW2TacO] Failed to open trail data file .\MirrorSmallRouteStarlitMap.trl
+[2025-12-22 18:46:09] (Err)  [GW2TacO] Failed to open trail data file .\MirrorSmallRouteShipwreckMap.trl
+[2025-12-22 18:46:09] (Err)  [GW2TacO] Failed to open trail data file .\MirrorSmallRouteStarlitMap.trl
+[2025-12-22 18:46:09] (Info) [GW2TacO] Fetching URL: www.tekkitsworkshop.net/index.php/download
+[2025-12-22 18:46:09] (Err)  [GW2TacO] Failed to open trail data file Data/TW/EoD/DragonsEnd/tw_eod_dragonsend_jadelanterns_toggletrail.trl
+[2025-12-22 18:46:10] (Err)  [GW2TacO] Failed to open trail data file Data/TW/VoE/ShipwreckStrand\tw_voe_shipwreckstrand_underwaterexploration_toggletrail.trl
+[2025-12-22 18:46:10] (Info) [GW2TacO] Fetching URL: www.heinze.fr/taco/?lang=en
+[2025-12-22 18:46:10] (Err)  [GW2TacO] Package ReactifEn version string not found
+[2025-12-22 18:46:10] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/wvw/objectives?ids=all
+[2025-12-22 18:46:11] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=1099
+[2025-12-22 18:46:11] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=96
+[2025-12-22 18:46:11] (Dbg)  [GW2TacO] Taco integrity: 2000, GW2 integrity: 2000
+[2025-12-22 18:46:11] (Info) [GW2TacO] gw2 window size change: 0 0 1920 1080 (1920 1080)
+[2025-12-22 18:46:11] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=95
+[2025-12-22 18:46:20] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=968
+[2025-12-22 18:46:20] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=38
+[2025-12-22 18:46:40] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 18:47:15] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 18:47:19] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 18:49:46] (Info) [core] 4 unfreed graphical resources found on exit. This is fine.
+
+----------------------------------------------
+[2025-12-22 18:49:54] (Info) [GW2TacO] build ID: GW2 TacO 066.3702r
+[2025-12-22 18:49:54] (Info) [GW2TacO] CommandLine: "D:\Downloads\gw2 test pack\MirrorFarm\MirrorFarm\GW2TacO_066r\GW2TacO.exe" 
+[2025-12-22 18:49:54] (Err)  [GW2TacO] Failed to register gw2taco:// protocol with windows.
+[2025-12-22 18:49:54] (Info) [core] Creating DirectComposition swap chain
+[2025-12-22 18:49:54] (Info) [core] DirectX11 Device initialization successful.
+[2025-12-22 18:49:54] (Info) [gui] Successfully loaded Skin 'UI.wbs'
+[2025-12-22 18:49:54] (Err)  [xml2gui] Unknown tag: 'GW2Dialog'
+[2025-12-22 18:49:54] (Info) [core] Successfully loaded D3DCompile from d3dcompiler_47.dll
+[2025-12-22 18:49:54] (Info) [GW2TacO] Fetching URL: raw.githubusercontent.com/BoyC/GW2TacO/main/MarkerPacks.json
+[2025-12-22 18:49:54] (Err)  [GW2TacO] Failed to open trail data file .\MirrorSmallRouteShipwreckMap.trl
+[2025-12-22 18:49:54] (Err)  [GW2TacO] Failed to open trail data file .\MirrorSmallRouteStarlitMap.trl
+[2025-12-22 18:49:54] (Err)  [GW2TacO] Failed to open trail data file .\MirrorSmallRouteShipwreckMap.trl
+[2025-12-22 18:49:54] (Err)  [GW2TacO] Failed to open trail data file .\MirrorSmallRouteStarlitMap.trl
+[2025-12-22 18:49:54] (Info) [GW2TacO] Fetching URL: www.tekkitsworkshop.net/index.php/download
+[2025-12-22 18:49:55] (Err)  [GW2TacO] Failed to open trail data file Data/TW/EoD/DragonsEnd/tw_eod_dragonsend_jadelanterns_toggletrail.trl
+[2025-12-22 18:49:55] (Err)  [GW2TacO] Failed to open trail data file Data/TW/VoE/ShipwreckStrand\tw_voe_shipwreckstrand_underwaterexploration_toggletrail.trl
+[2025-12-22 18:49:55] (Info) [GW2TacO] Fetching URL: www.heinze.fr/taco/?lang=en
+[2025-12-22 18:49:56] (Err)  [GW2TacO] Package ReactifEn version string not found
+[2025-12-22 18:49:56] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/wvw/objectives?ids=all
+[2025-12-22 18:49:56] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=1099
+[2025-12-22 18:49:56] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=96
+[2025-12-22 18:49:57] (Dbg)  [GW2TacO] Taco integrity: 2000, GW2 integrity: 2000
+[2025-12-22 18:49:57] (Info) [GW2TacO] gw2 window size change: 0 0 1920 1080 (1920 1080)
+[2025-12-22 18:49:58] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=95
+[2025-12-22 18:49:58] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=968
+[2025-12-22 18:49:58] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=38
+[2025-12-22 19:48:42] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 19:48:42] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 19:48:43] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 19:48:43] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 19:48:43] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 19:48:43] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 19:48:43] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 19:48:43] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/chest.png
+[2025-12-22 19:48:43] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 19:48:44] (Err)  [GWTacO] Failed to open image data/mirrorfarm/markers/mirror.png
+[2025-12-22 19:49:56] (Info) [core] 2 unfreed graphical resources found on exit. This is fine.
+
+----------------------------------------------
+[2025-12-22 19:49:57] (Info) [GW2TacO] build ID: GW2 TacO 066.3702r
+[2025-12-22 19:49:57] (Info) [GW2TacO] CommandLine: "D:\Downloads\gw2 test pack\MirrorFarm\MirrorFarm\GW2TacO_066r\GW2TacO.exe" 
+[2025-12-22 19:49:57] (Err)  [GW2TacO] Failed to register gw2taco:// protocol with windows.
+[2025-12-22 19:49:57] (Info) [core] Creating DirectComposition swap chain
+[2025-12-22 19:49:57] (Info) [core] DirectX11 Device initialization successful.
+[2025-12-22 19:49:58] (Info) [gui] Successfully loaded Skin 'UI.wbs'
+[2025-12-22 19:49:58] (Err)  [xml2gui] Unknown tag: 'GW2Dialog'
+[2025-12-22 19:49:58] (Info) [core] Successfully loaded D3DCompile from d3dcompiler_47.dll
+[2025-12-22 19:49:58] (Info) [GW2TacO] Fetching URL: raw.githubusercontent.com/BoyC/GW2TacO/main/MarkerPacks.json
+[2025-12-22 19:49:58] (Err)  [GW2TacO] Failed to open trail data file .\MirrorSmallRouteShipwreckMap.trl
+[2025-12-22 19:49:58] (Err)  [GW2TacO] Failed to open trail data file .\MirrorSmallRouteStarlitMap.trl
+[2025-12-22 19:49:58] (Err)  [GW2TacO] Failed to open trail data file .\MirrorSmallRouteShipwreckMap.trl
+[2025-12-22 19:49:58] (Err)  [GW2TacO] Failed to open trail data file .\MirrorSmallRouteStarlitMap.trl
+[2025-12-22 19:49:58] (Info) [GW2TacO] Fetching URL: www.tekkitsworkshop.net/index.php/download
+[2025-12-22 19:49:58] (Err)  [GW2TacO] Failed to open trail data file Data/TW/EoD/DragonsEnd/tw_eod_dragonsend_jadelanterns_toggletrail.trl
+[2025-12-22 19:49:58] (Err)  [GW2TacO] Failed to open trail data file Data/TW/VoE/ShipwreckStrand\tw_voe_shipwreckstrand_underwaterexploration_toggletrail.trl
+[2025-12-22 19:49:59] (Err)  [GW2TacO] Failed to open trail data file .\MirrorTrailAdjust.trl
+[2025-12-22 19:49:59] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/wvw/objectives?ids=all
+[2025-12-22 19:49:59] (Info) [GW2TacO] Fetching URL: www.heinze.fr/taco/?lang=en
+[2025-12-22 19:49:59] (Err)  [GW2TacO] Package ReactifEn version string not found
+[2025-12-22 19:50:00] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=1099
+[2025-12-22 19:50:00] (Dbg)  [GW2TacO] Taco integrity: 2000, GW2 integrity: 2000
+[2025-12-22 19:50:00] (Info) [GW2TacO] gw2 window size change: 0 0 1920 1080 (1920 1080)
+[2025-12-22 19:50:01] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=96
+[2025-12-22 19:50:01] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=95
+[2025-12-22 19:50:01] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=968
+[2025-12-22 19:50:01] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=38
+[2025-12-22 19:50:13] (Info) [core] 2 unfreed graphical resources found on exit. This is fine.
+
+----------------------------------------------
+[2025-12-22 19:50:18] (Info) [GW2TacO] build ID: GW2 TacO 066.3702r
+[2025-12-22 19:50:18] (Info) [GW2TacO] CommandLine: "D:\Downloads\gw2 test pack\MirrorFarm\MirrorFarm\GW2TacO_066r\GW2TacO.exe" 
+[2025-12-22 19:50:18] (Err)  [GW2TacO] Failed to register gw2taco:// protocol with windows.
+[2025-12-22 19:50:18] (Info) [core] Creating DirectComposition swap chain
+[2025-12-22 19:50:19] (Info) [core] DirectX11 Device initialization successful.
+[2025-12-22 19:50:19] (Info) [gui] Successfully loaded Skin 'UI.wbs'
+[2025-12-22 19:50:19] (Err)  [xml2gui] Unknown tag: 'GW2Dialog'
+[2025-12-22 19:50:19] (Info) [core] Successfully loaded D3DCompile from d3dcompiler_47.dll
+[2025-12-22 19:50:19] (Info) [GW2TacO] Fetching URL: raw.githubusercontent.com/BoyC/GW2TacO/main/MarkerPacks.json
+[2025-12-22 19:50:19] (Err)  [GW2TacO] Failed to open trail data file .\MirrorSmallRouteShipwreckMap.trl
+[2025-12-22 19:50:19] (Err)  [GW2TacO] Failed to open trail data file .\MirrorSmallRouteStarlitMap.trl
+[2025-12-22 19:50:19] (Err)  [GW2TacO] Failed to open trail data file .\MirrorSmallRouteShipwreckMap.trl
+[2025-12-22 19:50:19] (Err)  [GW2TacO] Failed to open trail data file .\MirrorSmallRouteStarlitMap.trl
+[2025-12-22 19:50:19] (Info) [GW2TacO] Fetching URL: www.tekkitsworkshop.net/index.php/download
+[2025-12-22 19:50:20] (Err)  [GW2TacO] Failed to open trail data file Data/TW/EoD/DragonsEnd/tw_eod_dragonsend_jadelanterns_toggletrail.trl
+[2025-12-22 19:50:20] (Err)  [GW2TacO] Failed to open trail data file Data/TW/VoE/ShipwreckStrand\tw_voe_shipwreckstrand_underwaterexploration_toggletrail.trl
+[2025-12-22 19:50:20] (Info) [GW2TacO] Fetching URL: www.heinze.fr/taco/?lang=en
+[2025-12-22 19:50:20] (Err)  [GW2TacO] Package ReactifEn version string not found
+[2025-12-22 19:50:20] (Err)  [GW2TacO] Failed to open trail data file .\MirrorTrailAdjust.trl
+[2025-12-22 19:50:20] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/wvw/objectives?ids=all
+[2025-12-22 19:50:21] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=1099
+[2025-12-22 19:50:21] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=96
+[2025-12-22 19:50:21] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=95
+[2025-12-22 19:50:21] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=968
+[2025-12-22 19:50:21] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=38
+[2025-12-22 19:50:21] (Dbg)  [GW2TacO] Taco integrity: 2000, GW2 integrity: 2000
+[2025-12-22 19:50:21] (Info) [GW2TacO] gw2 window size change: 0 0 1920 1080 (1920 1080)
+[2025-12-22 19:53:01] (Info) [core] 2 unfreed graphical resources found on exit. This is fine.
+
+----------------------------------------------
+[2025-12-22 19:56:20] (Info) [GW2TacO] build ID: GW2 TacO 066.3702r
+[2025-12-22 19:56:20] (Info) [GW2TacO] CommandLine: "D:\Downloads\gw2 test pack\MirrorFarm\MirrorFarm\GW2TacO_066r\GW2TacO.exe" 
+[2025-12-22 19:56:20] (Err)  [GW2TacO] Failed to register gw2taco:// protocol with windows.
+[2025-12-22 19:56:20] (Info) [core] Creating DirectComposition swap chain
+[2025-12-22 19:56:21] (Info) [core] DirectX11 Device initialization successful.
+[2025-12-22 19:56:21] (Info) [gui] Successfully loaded Skin 'UI.wbs'
+[2025-12-22 19:56:21] (Err)  [xml2gui] Unknown tag: 'GW2Dialog'
+[2025-12-22 19:56:21] (Info) [core] Successfully loaded D3DCompile from d3dcompiler_47.dll
+[2025-12-22 19:56:21] (Info) [GW2TacO] Fetching URL: raw.githubusercontent.com/BoyC/GW2TacO/main/MarkerPacks.json
+[2025-12-22 19:56:21] (Info) [GW2TacO] Fetching URL: www.tekkitsworkshop.net/index.php/download
+[2025-12-22 19:56:22] (Err)  [GW2TacO] Failed to open trail data file Data/TW/EoD/DragonsEnd/tw_eod_dragonsend_jadelanterns_toggletrail.trl
+[2025-12-22 19:56:22] (Err)  [GW2TacO] Failed to open trail data file Data/TW/VoE/ShipwreckStrand\tw_voe_shipwreckstrand_underwaterexploration_toggletrail.trl
+[2025-12-22 19:56:22] (Info) [GW2TacO] Fetching URL: www.heinze.fr/taco/?lang=en
+[2025-12-22 19:56:22] (Err)  [GW2TacO] Package ReactifEn version string not found
+[2025-12-22 19:56:22] (Err)  [GW2TacO] Failed to open trail data file .\MirrorTrailAdjust.trl
+[2025-12-22 19:56:22] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/wvw/objectives?ids=all
+[2025-12-22 19:56:23] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=1099
+[2025-12-22 19:56:23] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=96
+[2025-12-22 19:56:24] (Dbg)  [GW2TacO] Taco integrity: 2000, GW2 integrity: 2000
+[2025-12-22 19:56:24] (Info) [GW2TacO] gw2 window size change: 0 0 1920 1080 (1920 1080)
+[2025-12-22 19:56:35] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=95
+[2025-12-22 19:56:35] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=968
+[2025-12-22 19:56:40] (Info) [GW2TacO] Fetching URL: api.guildwars2.com//v2/maps?id=38
+[2025-12-22 19:59:09] (Info) [GW2TacO] gw2 window size change: 20184848 1985940784 2129187839 -2 (2109002991 -1985940786)
+[2025-12-22 19:59:09] (Warn) [core] Trying to resize swapchain to invalid resolution: 65535 0
+[2025-12-22 19:59:14] (Info) [core] 2 unfreed graphical resources found on exit. This is fine.
